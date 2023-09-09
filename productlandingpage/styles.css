@@ -1,0 +1,48 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+header {
+    background-color: #333;
+    color: #fff;
+    padding: 1rem 0;
+}
+
+nav ul {
+    list-style: none;
+    display: flex;
+    justify-content: space-around;
+}
+
+nav a {
+    text-decoration: none;
+    color: #fff;
+}
+
+.hero {
+    text-align: center;
+    padding: 3rem 0;
+    background-image: url('bimg.jpg');
+    background-size: cover;
+    background-position: center;
+    color: #333;
+}
+
+.features {
+    /* Add styling for features section */
+}
+
+.pricing {
+    /* Add styling for pricing section */
+}
+
+.faqs {
+    /* Add styling for FAQs section */
+}
+
+footer {
+    text-align: center;
+    background-color: #333;
+    color: #fff;
+    padding: 1rem 0;
+}
